@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="camera" translatable="false">Kamera</string>
+    <string name="settings" translatable="false">Einstellungen</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="upload" translatable="false">Upload</string>
+    <string name="discard" translatable="false">Discard</string>
+    <string name="camera" translatable="false">Camera</string>
+    <string name="camera_value" translatable="false">Leica M Typ 240</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="settings_value" translatable="false">f/4 16s ISO 200</string>
+    <string name="lbl_description" translatable="false">Singapore</string>
+    <string name="singapore_description" translatable="false">TextView</string>
+    <string name="des_img1">Imagen Singapour</string>
+    <string name="img_fav">Favoritos</string>
+</resources>

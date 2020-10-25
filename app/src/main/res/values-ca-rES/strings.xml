@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercici1</string>
+    <string name="camera" translatable="false">Camara</string>
+    <string name="settings" translatable="false">Opcions</string>
+    <string name="lbl_description" translatable="false">Singapur</string>
+    <string name="img_fav">Favorits</string>
+    <string name="upload" translatable="false">Pujar</string>
+    <string name="discard" translatable="false">Cancelar</string>
+</resources>
